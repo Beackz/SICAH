@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SICAH</string>
+    <string name="sicahweb">SICAH Web</string>
+    <string name="correo">Correo Electrónico:</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="contrasena2">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="correo2">Correo Eletrónico</string>
+    <string name="olvide_contrasena">Olvidé mi contraseña</string>
+</resources>
